@@ -1,5 +1,4 @@
 # Budget-App-ruby-on-rails
-# Budget-App
 
 ## Description
 Budget-App is a Ruby on Rails mobile web application designed for managing your budget. Users can register and log in to keep their data private, introduce new transactions associated with categories, and track the money spent on each category.
